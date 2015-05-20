@@ -1,0 +1,8 @@
+ESP is capable of connecting to a HTTP server. Which basiclly means, it should be able to connect to a heroku server as well.
+
+All the HTTP servers connect over TCP. So I am going to attempt to connect to a server, and write a gGET statement which is going to also send the parameters that can be stored or saved somewhere.
+
+In theory this should all be extremely easy, but I will have to test myself to check how this turns out. If it all works, I will update you guys here. Till then, it is still not working.
+
+
+P.S: Server would be written in Node using exprestify.

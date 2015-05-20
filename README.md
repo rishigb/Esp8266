@@ -40,4 +40,6 @@ I have followed this instructable to make it all work: http://www.instructables.
 
 Brilliant links: 
 
-http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/ 
+1.http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/ 
+2.http://fab.cba.mit.edu/classes/863.14/tutorials/Programming/serialwifi.html
+3.http://www.limpkin.fr/index.php?post/2014/12/07/First-Steps-with-the-ESP8266-03-Development-Board
