@@ -1,3 +1,8 @@
 To make the module work with an Arduino IDE, you need to follow the following procedure. It all starts with making your Arduino Compatible with the module first. For that, go to : https://github.com/esp8266/Arduino and read through the instructions.
 
 In my case, I could not understand what configurations to use for the module after everythin was installed. I will keep you updated on what I did to make it work.
+
+To build from source you will need to install Apache Ant. I am using a mac and to install Ant, all I needed to do was:
+ ``` brew install ant ```
+Check Ant version using :
+``` ant -version ```
