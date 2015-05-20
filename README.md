@@ -38,3 +38,6 @@ Now all the AT commands should work.
 
 I have followed this instructable to make it all work: http://www.instructables.com/id/Getting-Started-with-the-ESP8266-ESP-12/step6/Setup-the-Communication-parameters/ 
 
+Brilliant links: 
+
+http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/ 
